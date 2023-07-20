@@ -2,5 +2,3 @@
 app/.env
 /.idea
 __init__.py
-app/__pycache__
-alembic/__pycache__
